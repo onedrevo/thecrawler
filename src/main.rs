@@ -1,4 +1,5 @@
 //! The Crawler - High-Performance File Indexer
+//  - TODO: Add support for dry-run mode to preview scans without writing to DB
 mod db;
 mod crawler;
 mod utils;
